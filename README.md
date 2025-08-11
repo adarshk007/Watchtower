@@ -1,5 +1,6 @@
 Watch Tower - Visulization tool for the aws logs
 
-<img width="539" height="533" alt="image" src="https://github.com/user-attachments/assets/56c743ef-4ca1-4da3-a7e2-0dc54aa46cac" />
-
+<img width="414" height="319" alt="image" src="https://github.com/user-attachments/assets/13e4a24c-70b8-4a0d-8e3b-a41d5d66d588" />
+<br/>
+<img width="446" height="44" alt="image" src="https://github.com/user-attachments/assets/e64ea872-9278-4476-82f8-4b6960e02744" />
 
